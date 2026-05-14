@@ -1,4 +1,4 @@
-# CCNA Labs
+# CCNA Lab 
 
 This repository contains my Cisco Packet Tracer networking labs.
 
